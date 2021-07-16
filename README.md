@@ -23,6 +23,7 @@ I am a self taught developer. I love building full-stack web applications and mo
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-593D88?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,6 +41,6 @@ I am a self taught developer. I love building full-stack web applications and mo
 
 ## Some of my Repos 💻
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaybhade&repo=covid19Tracker)](https://github.com/Jaybhade/covid19Tracker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaybhade&repo=portfolio-website)](https://github.com/Jaybhade/portfolio-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaybhade&repo=covid19Tracker)](https://github.com/Jaybhade/covid19Tracker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaybhade&repo=expressjs-ecommerce-api)](https://github.com/Jaybhade/covid19Trackerexpressjs-ecommerce-api)
