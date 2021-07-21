@@ -39,8 +39,10 @@ I am a self taught developer. I love building full-stack web applications and mo
 - [Build a Blog with NextJs](https://jaybhade.vercel.app/blog/build-a-blog-with-nextjs)
 <!-- BLOG-POST-LIST:END -->
 
-## Some of my Repos 💻
+<!-- ## Some of my Repos 💻
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaybhade&repo=portfolio-website)](https://github.com/Jaybhade/portfolio-website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaybhade&repo=covid19Tracker)](https://github.com/Jaybhade/covid19Tracker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaybhade&repo=expressjs-ecommerce-api)](https://github.com/Jaybhade/covid19Trackerexpressjs-ecommerce-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaybhade&repo=expressjs-ecommerce-api)](https://github.com/Jaybhade/covid19Trackerexpressjs-ecommerce-api) -->
+
+![Jayesh's github stats](https://github-readme-stats.vercel.app/api?username=jaybhade&show_icons=true)
