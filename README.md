@@ -4,7 +4,6 @@
 I am a self taught developer. I love building full-stack web applications and mobile apps.
 
 - 🔭 I’m currently working on Mern stack based project
-- 🌱 I’m currently learning Database Management System
 - 👯 I’m looking to collaborate on Fullstack web development
 - 💬 Ask me about Javascript, ReactJs, React Native, NodeJs
 - 📫 How to reach me: [jayeshjibhade@gmail.com](mailto:jayeshjibhade@gmail.com)
