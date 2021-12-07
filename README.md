@@ -16,6 +16,12 @@ I am a self taught developer. I love building full-stack web applications and mo
 - [Instagram](https://www.instagram.com/jayesh.py/)
 - [Telegram](https://t.me/drywings)
 
+## Some of my hosted work 🌍
+
+- [veteranspen.in](https://veteranspen.in)
+- [aciie.ietdavv.edu.in](aciie.ietdavv.edu.in)
+- [jaybhade.vercel.app](jaybhade.vercel.app)
+
 ## My skills 🚀
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
