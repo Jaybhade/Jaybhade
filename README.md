@@ -19,8 +19,8 @@ I am a self taught developer. I love building full-stack web applications and mo
 ## Some of my hosted work 🌍
 
 - [veteranspen.in](https://veteranspen.in)
-- [aciie.ietdavv.edu.in](aciie.ietdavv.edu.in)
-- [jaybhade.vercel.app](jaybhade.vercel.app)
+- [aciie.ietdavv.edu.in](https://aciie.ietdavv.edu.in)
+- [jaybhade.vercel.app](https://jaybhade.vercel.app)
 
 ## My skills 🚀
 
