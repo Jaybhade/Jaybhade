@@ -42,6 +42,7 @@ I am a self taught developer. I love building full-stack web applications and mo
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Splitting in Next Js](https://tech.groww.in/code-splitting-in-next-js-ceeab595b199)
 - [Build a Blog with NextJs](https://jaybhade.vercel.app/blog/build-a-blog-with-nextjs)
 <!-- BLOG-POST-LIST:END -->
 
