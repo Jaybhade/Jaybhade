@@ -12,7 +12,7 @@ I am a self taught developer. I love building full-stack web applications and mo
 ## Find me around the web 🌍
 
 - [LinkedIn](https://linkedin.com/in/jayeshbhade)
-- [Mail](jayeshjibhade@gmail.com)
+- [Mail](mailto:jayeshjibhade@gmail.com)
 - [Instagram](https://www.instagram.com/jayesh.py/)
 - [Telegram](https://t.me/drywings)
 
