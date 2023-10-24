@@ -52,4 +52,3 @@ I am a self taught developer. I love building full-stack web applications and mo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaybhade&repo=covid19Tracker)](https://github.com/Jaybhade/covid19Tracker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaybhade&repo=expressjs-ecommerce-api)](https://github.com/Jaybhade/covid19Trackerexpressjs-ecommerce-api) -->
 
-![Jayesh's github stats](https://github-readme-stats.vercel.app/api?username=jaybhade&show_icons=true)
